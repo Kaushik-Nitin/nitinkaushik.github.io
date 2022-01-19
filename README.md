@@ -18,14 +18,14 @@ I am a Prefinal year IT student at NIT, Kurukshetra. I have hands on data struct
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **SOFTWARE ENGINEER INTERNSHIP**
+### WELLS FARGO 
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
 
-### **Volunteer**
-### Technobyte, NIT Kurukshetra
+### **VOLUNTEER**
+### TECHNOBYTE NIT KURUKSHETRA
 
 Organised technical sessions by some of the finest people of different industries. Organised Coding contests, games and so on. 
 
