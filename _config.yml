@@ -1,1 +1,11 @@
+title: Nitin Kaushik # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Tech Enthusiast
+  <br><br>
+  <a href="mailto:nitinkaushik11913019@gmail.com">nitinkaushik11913019@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/nitin-kaushik-08342b1b6/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/Kaushik-Nitin">Gihub</a> 
 theme: jekyll-theme-minimal
