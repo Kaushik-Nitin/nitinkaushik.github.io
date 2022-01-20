@@ -35,12 +35,12 @@ Organised technical sessions by some of the finest people of different industrie
 
 ### **National Institute Of Technology,Kurukshetra**
 ### BTech Information Technology (2019- 2023)
-GPA 9.12
+CGPA 9.12
 
 ---
 
 ### INTERESTS
-Apart from being a Tech Enthusiast, I love play to play cricket, volleyball. I also love to listen and sing punjabi songs.
+Apart from being a Tech Enthusiast, I love to play cricket, volleyball. I also love to listen and sing punjabi songs.
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play chess and dance in my free time.
 
