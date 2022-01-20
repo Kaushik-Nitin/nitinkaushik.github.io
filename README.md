@@ -39,7 +39,7 @@ CGPA 9.12
 
 ---
 
-### INTERESTS
+### Interests
 Apart from being a Tech Enthusiast, I love to play cricket, volleyball. I also love to listen and sing punjabi songs.
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play chess and dance in my free time.
